@@ -5,5 +5,5 @@ for i in a_list:
     print(a_list.count(i))
     x=a_list.count(i)
     occur_dict[i] = x
-print("count of all values")
+print("number of ocurances all values")
 print(occur_dict)
