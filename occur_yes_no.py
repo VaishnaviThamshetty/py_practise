@@ -3,7 +3,6 @@ occur_dict={}
 flag=0
 
 for i in a_list:
-    
     x=a_list.count(i)
     if x > 1:
         flag=1
